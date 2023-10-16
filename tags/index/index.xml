@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>index on Robert Chen</title>
+    <link>https://robche.com/tags/index/</link>
+    <description>Recent content in index on Robert Chen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© [Robert Chen](https://robche.com) 2023.</copyright><atom:link href="https://robche.com/tags/index/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Posts</title>
+      <link>https://robche.com/post/</link>
+      <pubDate>Sun, 30 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://robche.com/post/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
