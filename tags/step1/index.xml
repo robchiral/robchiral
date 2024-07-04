@@ -1,21 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>step1 on Robert Chen</title>
+    <title>Step1 on Robert Chen</title>
     <link>https://robche.com/tags/step1/</link>
-    <description>Recent content in step1 on Robert Chen</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Step1 on Robert Chen</description>
+    <generator>Hugo</generator>
     <language>en</language>
-    <copyright>© [Robert Chen](https://robche.com) 2023.</copyright>
-    <lastBuildDate>Sun, 30 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://robche.com/tags/step1/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© [Robert Chen](https://robche.com) 2024.</copyright>
+    <lastBuildDate>Sun, 30 Apr 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://robche.com/tags/step1/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Step 1 Writeup</title>
       <link>https://robche.com/post/step1/</link>
       <pubDate>Sun, 30 Apr 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://robche.com/post/step1/</guid>
       <description>&lt;p&gt;How I passed Step 1 after 8 months of medical school using only Anking and UWorld.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

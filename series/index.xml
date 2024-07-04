@@ -4,18 +4,17 @@
     <title>Series on Robert Chen</title>
     <link>https://robche.com/series/</link>
     <description>Recent content in Series on Robert Chen</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
-    <copyright>© [Robert Chen](https://robche.com) 2023.</copyright>
-    <lastBuildDate>Sun, 30 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://robche.com/series/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© [Robert Chen](https://robche.com) 2024.</copyright>
+    <lastBuildDate>Sun, 30 Apr 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://robche.com/series/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Themes Guide</title>
       <link>https://robche.com/series/themes-guide/</link>
       <pubDate>Sun, 30 Apr 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://robche.com/series/themes-guide/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>
